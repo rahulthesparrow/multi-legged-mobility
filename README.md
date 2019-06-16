@@ -3,7 +3,9 @@
 Legged robots are a type of mobile robot which use mechanical limbs for movement. They are more versatile than wheeled robots and can traverse many different terrains, though these advantages require increased complexity and power consumption
 
 Types
-Legged robots can be categorized by the number of limbs they use, which determines gaits available. Many-legged robots tend to be more stable, while fewer legs lends itself to greater maneuverability.
+Legged robot
+legged bots
+can be categorized by the number of limbs they use, which determines gaits available. Many-legged robots tend to be more stable, while fewer legs lends itself to greater maneuverability.
 
 One-legged
 One-legged, or pogo stick robots use a hopping motion for navigation. In the 1980s, Carnegie Mellon University developed a one-legged robot to study balance.[1] Berkeley's SALTO is another example.[2][3][4][5]
